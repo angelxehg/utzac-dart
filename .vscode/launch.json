@@ -15,6 +15,12 @@
             "program": "listas.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Mapas",
+            "program": "mapas.dart",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
