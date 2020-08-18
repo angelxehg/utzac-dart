@@ -21,6 +21,12 @@
             "program": "mapas.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Funciones",
+            "program": "functions.dart",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
