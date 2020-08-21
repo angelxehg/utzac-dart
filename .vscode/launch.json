@@ -33,6 +33,12 @@
             "program": "clases.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Extends",
+            "program": "extends.dart",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
