@@ -39,6 +39,12 @@
             "program": "extends.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Async",
+            "program": "async.dart",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
