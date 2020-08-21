@@ -27,6 +27,12 @@
             "program": "functions.dart",
             "request": "launch",
             "type": "dart"
+        },
+        {
+            "name": "Clases",
+            "program": "clases.dart",
+            "request": "launch",
+            "type": "dart"
         }
     ]
 }
